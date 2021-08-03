@@ -1,0 +1,51 @@
+1366 x 768
+Lapa sanāk garāka nekā dotajā bildē
+Header:
+	Neliela nobīde elementos
+Teksta sadaļa:
+	Neliela nobīde
+Galerija:
+	Bildes nedaudz atsķiras izmēros
+Pogu sadaļa:
+	Nobīde pogām un tekstiem
+Sazinies sadaļa:
+	Lietas atrodas tālāk garumā nekā paradzēts
+Sponsoru sadaļa:
+	Nelielas nobīdes tekstā un logos
+Footer:
+	Nobīdes visur
+	Copyright ir vienā rindā nevis divās
+
+Tablet 768 x 768
+Lapa nedaudz īsāka nekā dotajā bildē
+Header:
+	Neliela nobīde elementos
+Teksta sadaļa:
+	Neliela nobīde
+Galerija:
+	Lielāka
+Pogu sadaļa:
+	Nobīde pogām un tekstiem
+Sazinies sadaļa:
+	Lietas atrodas garākā attālumā
+Sponsoru sadaļa:
+	Nelielas nobīdes tekstā un logos
+Footer:
+	Nobīdes visur
+
+Phone 320 x 768
+Lapa nedaudz īsāka nekā dotajā bildē
+Header:
+	Neliela nobīde elementos
+Teksta sadaļa:
+	Neliela nobīde
+Galerija:
+	Lielāka
+Pogu sadaļa:
+	Nobīde pogām un tekstiem
+Sazinies sadaļa:
+	Lietas atrodas garākā attāluma
+Sponsoru sadaļa:
+	Nelielas nobīdes tekstā un logos
+Footer:
+	Nobīdes visur
